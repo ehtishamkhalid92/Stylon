@@ -1,0 +1,6 @@
+framework module Pods_Stylon {
+  umbrella header "Pods-Stylon-umbrella.h"
+
+  export *
+  module * { export * }
+}
